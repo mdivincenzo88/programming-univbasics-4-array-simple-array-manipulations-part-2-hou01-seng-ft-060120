@@ -11,6 +11,6 @@ def using_uniq(array)
 end
 
 def using_flatten(array [new_array])
-  array.uniq
+  array.flatten
 end
 
